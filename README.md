@@ -1,3 +1,5 @@
+https://github.com/Lauren0929Kang/git-assignment1.git
+
 # git-assignment1
 
 ---
